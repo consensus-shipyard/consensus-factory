@@ -42,9 +42,7 @@ blocks:
       collaborations.
     buttons:
       - label: Register Here
-        link: /
-      - label: ''
-        link: /
+        link: 'https://solarisevents.typeform.com/consensus'
     _template: tailwindFeature
   - style:
       textAlignment: text-center
@@ -161,7 +159,7 @@ blocks:
       ***
     buttons:
       - label: Register Here
-        link: /
+        link: 'https://solarisevents.typeform.com/consensus'
         type: solid
         buttonFillStyles: bg-accent1
         textColor: white
