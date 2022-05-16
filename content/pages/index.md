@@ -62,6 +62,23 @@ blocks:
   - headline: This is the main headline
     cards:
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1652729448/consensus-factory/Alfonso_de_la_Rocha_IOHK_prxwmd.png
+        name: Alfonso de la Rocha
+        title: Protocol Labs | ConsensusLab
+        text: >+
+          Before joining Protocol Labs, Alfonso de la Rocha worked as a
+          blockchain expert at Telefónica R\&D, where he was responsible for the
+          design and development of core technology based on blockchains,
+          distributed systems, and advanced cryptography. Alfonso’s involvement
+          in research and development began at Universidad Politécnica de
+          Madrid, where he worked on topics related to energy efficiency in data
+          centers. His broad R\&D experience also includes research into the
+          compression efficiency of video coding standards at Ericsson Research
+          and projects related to securing interdomain routing protocols at KTH
+          Royal Institute of Technology in Stockholm. Alfonso is also an avid
+          reader and basketball lover.
+
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1651779372/consensus-factory/Arnaud_Bailly_IOHK_mnmqm6.png
         name: Arnaud Bailly
         title: Input Output (IOHK) Technical Lead | Engineering
