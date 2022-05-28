@@ -103,6 +103,11 @@ blocks:
           cryptography, such as sharding, statelessness, the proof of custody
           and other topics.
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1653726196/consensus-factory/Victor_Luchangco_jcqv4p.png
+        name: Victor Luchangco
+        title: Algorand | Principal Algorithms Researcher
+        text: "**Victor Luchangco** is a Principal Algorithms Researcher at Algorand, where he works on protocols and languages for blockchains.\_ He is a co-author of *The Art of Multiprocessor Programming*, and is a recipient of the 2022 Dijkstra Prize in Distributed Computing.\_ Before joining Algorand, he worked at Oracle Labs and Sun Labs, where he worked on concurrent algorithms and data structures for shared-memory multiprocessors and the Fortress programming language.\_ He has authored over 50 papers and holds more than 40 patents.\_ He received an Sc.D. in Computer Science from the Massachusetts Institute of Technology, with a dissertation on models for weakly consistent memories.\n\n"
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1651787887/Nagel_osaria.png
         name: Sebastian Nagel
         title: Input Output (IOHK) Software Engineering Lead | Engineering
@@ -138,14 +143,12 @@ blocks:
           https://res.cloudinary.com/protocolai/image/upload/v1653502186/consensus-factory/siloutte_wleddb.png
         name: TBA
         title: TBD
+        text: ''
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1653502186/consensus-factory/siloutte_wleddb.png
         name: TBA
         title: TBD
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1653502186/consensus-factory/siloutte_wleddb.png
-        name: TBA
-        title: TBD
+        text: ''
     _template: speakerCards
   - background:
       src: >-
