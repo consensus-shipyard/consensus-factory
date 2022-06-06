@@ -37,9 +37,9 @@ blocks:
       stage with the introduction of Nakamoto’s Proof-of-Work (PoW) algorithm
       and the subsequent explosion of blockchain technology. However, it also
       poses a significant scalability bottleneck for blockchain networks. The
-      goal of this workshop is to present different scalability approaches being
-      pursued across different projects, and foster new ideas and
-      collaborations.
+      goal of this event is to present different scalability approaches being
+      pursued by projects across the blockchain space, and, in the process, to
+      foster new ideas and new collaborations.
     buttons:
       - label: Register Here
         link: 'https://solarisevents.typeform.com/consensus'
@@ -61,22 +61,6 @@ blocks:
     _template: banner
   - headline: This is the main headline
     cards:
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1652729448/consensus-factory/Alfonso_de_la_Rocha_IOHK_prxwmd.png
-        name: Alfonso de la Rocha
-        title: Protocol Labs | ConsensusLab
-        text: >
-          Before joining Protocol Labs, Alfonso de la Rocha worked as a
-          blockchain expert at Telefónica R\&D, where he was responsible for the
-          design and development of core technology based on blockchains,
-          distributed systems, and advanced cryptography. Alfonso’s involvement
-          in research and development began at Universidad Politécnica de
-          Madrid, where he worked on topics related to energy efficiency in data
-          centers. His broad R\&D experience also includes research into the
-          compression efficiency of video coding standards at Ericsson Research
-          and projects related to securing interdomain routing protocols at KTH
-          Royal Institute of Technology in Stockholm. Alfonso is also an avid
-          reader and basketball lover.
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1651779372/consensus-factory/Arnaud_Bailly_IOHK_mnmqm6.png
         name: Arnaud Bailly
@@ -106,22 +90,7 @@ blocks:
           https://res.cloudinary.com/protocolai/image/upload/v1653726196/consensus-factory/Victor_Luchangco_jcqv4p.png
         name: Victor Luchangco
         title: Algorand | Principal Algorithms Researcher
-        text: "**Victor Luchangco** is a Principal Algorithms Researcher at Algorand, where he works on protocols and languages for blockchains.\_ He is a co-author of *The Art of Multiprocessor Programming*, and is a recipient of the 2022 Dijkstra Prize in Distributed Computing.\_ Before joining Algorand, he worked at Oracle Labs and Sun Labs, where he worked on concurrent algorithms and data structures for shared-memory multiprocessors and the Fortress programming language.\_ He has authored over 50 papers and holds more than 40 patents.\_ He received an Sc.D. in Computer Science from the Massachusetts Institute of Technology, with a dissertation on models for weakly consistent memories.\n\n"
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1651787887/Nagel_osaria.png
-        name: Sebastian Nagel
-        title: Input Output (IOHK) Software Engineering Lead | Engineering
-        label: ''
-        text: >
-          **Sebastian Nagel** is an Austrian software engineer and functional
-          programming enthusiast. He studied computer science and graduated from
-          the Technical University of Munich with a master's degree in robotics,
-          cognition and intelligence. Within the robotics industry, he got to
-          know and love Haskell, formal methods, domain-specific languages, and
-          interpreters. After several years creating robot programming
-          languages, development platforms, and internet of things projects at
-          Franka Emika, Sebastian joined IOHK in 2021. In his time off he
-          usually roams the Alps climbing rock and ice.
+        text: "**Victor Luchangco** is a Principal Algorithms Researcher at Algorand, where he works on protocols and languages for blockchains.\_ He is a co-author of *The Art of Multiprocessor Programming*, and is a recipient of the 2022 Dijkstra Prize in Distributed Computing.\_ Before joining Algorand, he worked at Oracle Labs and Sun Labs, where he worked on concurrent algorithms and data structures for shared-memory multiprocessors and the Fortress programming language.\_ He has authored over 50 papers and holds more than 40 patents.\_ He received an Sc.D. in Computer Science from the Massachusetts Institute of Technology, with a dissertation on models for weakly consistent memories.\n"
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1651780872/consensus-factory/Sergio_Mena_no_background_c08yra.png
         name: Sergio Mena
@@ -140,15 +109,36 @@ blocks:
           research interests include fault-tolerant distributed systems, and
           congestion control for real time media.
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1653502186/consensus-factory/siloutte_wleddb.png
-        name: TBA
-        title: TBD
-        text: ''
+          https://res.cloudinary.com/protocolai/image/upload/v1651787887/Nagel_osaria.png
+        name: Sebastian Nagel
+        title: Input Output (IOHK) Software Engineering Lead | Engineering
+        label: ''
+        text: >
+          **Sebastian Nagel** is an Austrian software engineer and functional
+          programming enthusiast. He studied computer science and graduated from
+          the Technical University of Munich with a master's degree in robotics,
+          cognition and intelligence. Within the robotics industry, he got to
+          know and love Haskell, formal methods, domain-specific languages, and
+          interpreters. After several years creating robot programming
+          languages, development platforms, and internet of things projects at
+          Franka Emika, Sebastian joined IOHK in 2021. In his time off he
+          usually roams the Alps climbing rock and ice.
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1653502186/consensus-factory/siloutte_wleddb.png
-        name: TBA
-        title: TBD
-        text: ''
+          https://res.cloudinary.com/protocolai/image/upload/v1652729448/consensus-factory/Alfonso_de_la_Rocha_IOHK_prxwmd.png
+        name: Alfonso de la Rocha
+        title: Protocol Labs | ConsensusLab
+        text: >
+          Before joining Protocol Labs, Alfonso de la Rocha worked as a
+          blockchain expert at Telefónica R\&D, where he was responsible for the
+          design and development of core technology based on blockchains,
+          distributed systems, and advanced cryptography. Alfonso’s involvement
+          in research and development began at Universidad Politécnica de
+          Madrid, where he worked on topics related to energy efficiency in data
+          centers. His broad R\&D experience also includes research into the
+          compression efficiency of video coding standards at Ericsson Research
+          and projects related to securing interdomain routing protocols at KTH
+          Royal Institute of Technology in Stockholm. Alfonso is also an avid
+          reader and basketball lover.
     _template: speakerCards
   - background:
       src: >-
