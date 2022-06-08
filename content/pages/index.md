@@ -74,7 +74,7 @@ blocks:
           enthusiast since 2001 and had been coding professionally in Haskell
           for a decade before joining IOHK in 2021.
         headline: 'Hydra: Next Generation State Channels'
-        text: >+
+        text: >
           Accommodating a growing number of participants and transactions is a
           problem in any distributed consensus system, and blockchains make no
           exception, especially as they are gaining attention from a wider
@@ -88,9 +88,6 @@ blocks:
 
           This talk reflects on our experience taking Hydra Head from a research
           paper to a production-ready system, over the past year and half.
-
-
-
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1651780333/consensus-factory/Dankrad_Feist_no_background_pbleub.png
         name: Dankrad Feist
@@ -104,19 +101,18 @@ blocks:
         headline: >-
           Data availability commitments with distributed reconstruction thanks
           to 2d KZG commitments
-        text: >+
+        text: >
           Thanks to KZG commitments and their homomorphic properties, we were
           able to construct a unique data sharding solution that supports high
           data bandwidth while preserving security properties without requiring
           powerful actors (beyond normal validating nodes) in the network.
-
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1653726196/consensus-factory/Victor_Luchangco_jcqv4p.png
         name: Victor Luchangco
         title: Algorand | Principal Algorithms Researcher
         label: "Victor Luchangco is a Principal Algorithms Researcher at Algorand, where he works on protocols and languages for blockchains.\_ He is a co-author of The Art of Multiprocessor Programming, and is a recipient of the 2022 Dijkstra Prize in Distributed Computing.\_ Before joining Algorand, he worked at Oracle Labs and Sun Labs, where he worked on concurrent algorithms and data structures for shared-memory multiprocessors and the Fortress programming language.\_ He has authored over 50 papers and holds more than 40 patents.\_ He received an Sc.D. in Computer Science from the Massachusetts Institute of Technology, with a dissertation on models for weakly consistent memories."
         headline: Speculative Smart Contracts in the Algorand Blockchain
-        text: "The Algorand blockchain is a fast pure proof-of-stake blockchain with native (\"layer 1\") support for atomic transactions, user-defined assets, and smart contracts.\_ Layer-1 smart contracts are tightly constrained in both storage and execution to ensure that they do not unduly impact the overall performance of the blockchain.\_ To accommodate applications with greater storage and computation requirements, we propose\_*speculative smart contracts*, which maintain storage and execute contract calls off-chain and issue \"effects transactions\" that summarize the effects of the calls on the blockchain itself.\_ In this talk, we describe how to implement speculative smart contracts, and the features of the Algorand blockchain that we exploit, and some extensions that are required, to do so.\n\n"
+        text: "The Algorand blockchain is a fast pure proof-of-stake blockchain with native (\"layer 1\") support for atomic transactions, user-defined assets, and smart contracts.\_ Layer-1 smart contracts are tightly constrained in both storage and execution to ensure that they do not unduly impact the overall performance of the blockchain.\_ To accommodate applications with greater storage and computation requirements, we propose\_*speculative smart contracts*, which maintain storage and execute contract calls off-chain and issue \"effects transactions\" that summarize the effects of the calls on the blockchain itself.\_ In this talk, we describe how to implement speculative smart contracts, and the features of the Algorand blockchain that we exploit, and some extensions that are required, to do so.\n"
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1651780872/consensus-factory/Sergio_Mena_no_background_c08yra.png
         name: Sergio Mena
@@ -133,7 +129,7 @@ blocks:
           research interests include fault-tolerant distributed systems, and
           congestion control for real time media.
         headline: "ABCI++:\_Evolving Tendermint’s Modularity"
-        text: >+
+        text: >
           Application BlockChain Interface (ABCI) is the boundary between
           consensus and state machine replication (SMR) for Tendermint-based
           blockchains in Cosmos. ABCI was designed with the main goal of hiding
@@ -162,7 +158,6 @@ blocks:
           In this talk we walk through the main innovations in ABCI++; we
           discuss the new use cases they enable, as well as the risks they
           introduce and how these risks are captured in the specification.
-
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1651787887/Nagel_osaria.png
         name: Sebastian Nagel
@@ -209,7 +204,7 @@ blocks:
           Royal Institute of Technology in Stockholm. Alfonso is also an avid
           reader and basketball lover.
         headline: 'Hierarchical consensus: A horizontal scaling framework for blockchains'
-        text: >+
+        text: >
           We present the Filecoin Hierarchical Consensus framework, which aims
           to overcome the throughput challenges of blockchain consensus by
           horizontally scaling the network. Unlike traditional sharding designs,
@@ -223,7 +218,6 @@ blocks:
           introduce the overall system architecture, our detailed designs for
           cross-net transaction handling, and the open questions that we are
           still exploring.
-
     _template: speakerCards
   - background:
       src: >-
@@ -239,7 +233,7 @@ blocks:
           alignment: top
           xOffset: '500'
     headline: Virtual Event Schedule
-    subhead: ''
+    subhead: 'June 22, 2022 - 13:00-18:00 UTC'
     items:
       - headline: Welcome to ConsensusFactory
         time: '13:00-13:20 '
@@ -294,5 +288,7 @@ blocks:
 meta:
   pageTitle: Consensus Factory
   pageDescription: Consensus Factory
+  siteImageSrc: >-
+    https://res.cloudinary.com/protocolai/image/upload/v1654716841/consensus-factory/Concensus_Factory_Twitter_nnzpyk.jpg
 ---
 

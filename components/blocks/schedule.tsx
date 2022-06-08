@@ -21,7 +21,7 @@ export const Schedule = ({ data, parentField = "" }) => {
     <Section className="" background={data.background} navigationLabel={data.navigationLabel}>
       <div className="max-w-desktop-full mx-auto px-12 pt-20 pb-64">
         <h2 className="text-3xl text-accent2">{data.headline}</h2>
-        <h3>{data.subhead}</h3>
+        <h3 className="text-xl text-gray-light">{data.subhead}</h3>
         <div className="mt-16">
           {data.items && (
             data.items.map(function (block, index) {

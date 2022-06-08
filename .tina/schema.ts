@@ -64,6 +64,7 @@ export default defineSchema({
               type: "image",
               label: "Social Sharing Image",
               name: "siteImageSrc",
+              description: "Upload a 1200x600 jpeg image",
               ui: {
                 clearable: true,
               }
