@@ -289,6 +289,6 @@ meta:
   pageTitle: Consensus Factory
   pageDescription: Consensus Factory
   siteImageSrc: >-
-    https://res.cloudinary.com/protocolai/image/upload/v1654719166/consensus-factory/Concensus_Factory_Twitter_new_pahker.jpg
+    https://res.cloudinary.com/protocolai/image/upload/v1654803875/consensus-factory/Concensus_Factory_Twitter_wl8pj1.jpg
 ---
 
