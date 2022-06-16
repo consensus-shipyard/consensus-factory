@@ -62,9 +62,9 @@ blocks:
   - headline: This is the main headline
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1651779372/consensus-factory/Arnaud_Bailly_IOHK_mnmqm6.png
-        name: Arnaud Bailly
-        title: Input Output (IOHK) Technical Lead | Engineering
+          https://res.cloudinary.com/protocolai/image/upload/v1655394469/consensus-factory/IOHK_merged_x6wnnp.png
+        name: Arnaud Bailly & Sebastian Nagel
+        title: 'Input Output (IOHK) '
         label: >-
           Arnaud Bailly began developing software professionally in 1994, in
           various languages and settings. He graduated with a PhD from the
@@ -72,7 +72,16 @@ blocks:
           lead developer, technology chief, adviser, architect, and coach,
           mostly in software publishing companies. Arnaud has been a Haskell
           enthusiast since 2001 and had been coding professionally in Haskell
-          for a decade before joining IOHK in 2021.
+          for a decade before joining IOHK in 2021. Sebastian Nagel is an
+          Austrian software engineer and functional programming enthusiast. He
+          studied computer science and graduated from the Technical University
+          of Munich with a master's degree in robotics, cognition and
+          intelligence. Within the robotics industry, he got to know and love
+          Haskell, formal methods, domain-specific languages, and interpreters.
+          After several years creating robot programming languages, development
+          platforms, and internet of things projects at Franka Emika, Sebastian
+          joined IOHK in 2021. In his time off he usually roams the Alps
+          climbing rock and ice.
         headline: 'Hydra: Next Generation State Channels'
         text: >
           Accommodating a growing number of participants and transactions is a
@@ -159,35 +168,6 @@ blocks:
           discuss the new use cases they enable, as well as the risks they
           introduce and how these risks are captured in the specification.
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1651787887/Nagel_osaria.png
-        name: Sebastian Nagel
-        title: Input Output (IOHK) Software Engineering Lead | Engineering
-        label: >-
-          Sebastian Nagel is an Austrian software engineer and functional
-          programming enthusiast. He studied computer science and graduated from
-          the Technical University of Munich with a master's degree in robotics,
-          cognition and intelligence. Within the robotics industry, he got to
-          know and love Haskell, formal methods, domain-specific languages, and
-          interpreters. After several years creating robot programming
-          languages, development platforms, and internet of things projects at
-          Franka Emika, Sebastian joined IOHK in 2021. In his time off he
-          usually roams the Alps climbing rock and ice.
-        headline: 'Hydra: Next Generation State Channels'
-        text: >
-          Accommodating a growing number of participants and transactions is a
-          problem in any distributed consensus system, and blockchains make no
-          exception, especially as they are gaining attention from a wider
-          audience.
-
-          Hydra Head Protocol is a Layer 2 solution for (e)UTxO based
-          distributed ledgers that is part of Cardano's strategy to accommodate
-          this growth, allowing the creation of Isomorphic Multi-party State
-          Channels between a limited set of participants.
-
-
-          This talk reflects on our experience taking Hydra Head from a research
-          paper to a production-ready system, over the past year and half.
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1652729448/consensus-factory/Alfonso_de_la_Rocha_IOHK_prxwmd.png
         name: Alfonso de la Rocha
         title: Protocol Labs | ConsensusLab
@@ -237,24 +217,24 @@ blocks:
     items:
       - headline: Welcome to ConsensusFactory
         time: '13:00-13:20 '
-        name: Marko Vukolić
+        name: 'Marko Vukolić, Protocol Labs | ConsensusLab'
       - headline: "ABCI++:\_Evolving Tendermint’s Modularity"
         time: '13:20-14:00'
-        name: Sergio Mena
+        name: 'Sergio Mena, Informal Systems'
       - headline: >-
           Data availability commitments with distributed reconstruction thanks
           to 2d KZG commitments
         time: '14:00-14:40'
-        name: Dankrad Feist
+        name: 'Dankrad Feist, Ethereum Foundation'
       - headline: 'Hydra: Next Generation State Channels'
         time: '14:50-15:30'
-        name: Arnaud Bailly & Sebastian Nagel
+        name: 'Arnaud Bailly & Sebastian Nagel, Input Output (IOHK) '
       - headline: 'Hierarchical consensus: A horizontal scaling framework for blockchains'
         time: '15:30-16:10'
-        name: Alfonso de la Rocha
+        name: 'Alfonso de la Rocha, Protocol Labs | ConsensusLab'
       - headline: Speculative Smart Contracts in the Algorand Blockchain
         time: '16:20-17:00'
-        name: Victor Luchangco
+        name: 'Victor Luchangco, Algorand | Principal Algorithms Researcher'
       - headline: Decentralised Reflections on Consensus
         time: '17:00-18:00'
         name: Q&A
@@ -287,7 +267,9 @@ blocks:
     _template: banner
 meta:
   pageTitle: Consensus Factory
-  pageDescription: 'Consensus is at the heart of decentralised systems. Join us on 22 June to discuss how different L1 ecosystems approach scalability.'
+  pageDescription: >-
+    Consensus is at the heart of decentralised systems. Join us on 22 June to
+    discuss how different L1 ecosystems approach scalability.
   siteImageSrc: >-
     https://res.cloudinary.com/protocolai/image/upload/v1654803875/consensus-factory/Concensus_Factory_Twitter_wl8pj1.jpg
 ---
