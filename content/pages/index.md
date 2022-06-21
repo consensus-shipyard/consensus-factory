@@ -271,7 +271,7 @@ meta:
   pageTitle: Consensus Factory
   pageDescription: >-
     Consensus is at the heart of decentralised systems. Join us on 22 June to
-    discuss how different L1 ecosystems approach scalability.
+    discuss how different L1 ecosystems approach scalability...
   siteImageSrc: >-
     https://res.cloudinary.com/protocolai/image/upload/v1654803875/consensus-factory/Concensus_Factory_Twitter_wl8pj1.jpg
 ---
