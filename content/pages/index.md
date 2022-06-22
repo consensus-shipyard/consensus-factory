@@ -45,11 +45,37 @@ blocks:
         link: 'https://solarisevents.typeform.com/consensus'
     _template: tailwindFeature
   - style:
+      textAlignment: text-left
+      minHeight: min-h-0
+      padding: 'pt-20 pb-0 pr-60 pl-10 sm:pt-10 sm:pb-0 sm:pr-10 sm:pl-10'
+      width: normal
+      labelStyles: 'text-black font-1 text-sm mb-0 '
+      headlineStyles: text-primary font-2 text-2xl mb-5 font-bold
+      subheadStyles: 'text-black font-1 text-3xl mb-0 '
+      textStyles: 'text-black font-1 text-base mb-0 '
+      contentOrder: labelHeadingsContent
+    label: ''
+    headline: Join the discussion
+    subhead: ''
+    body: >
+      If you would like to participate in the Consensus Factory live discussion
+      join the [#consensus](https://app.slack.com/client/TEHTVS1L6/C02D73MHM63)
+      channel. If you are new to Slack follow these 2 simple steps:
+
+
+      1.  Sign up for an account at
+      [filecoin.io/slack](https://filecoin.io/slack)
+
+      2.  Join us in the
+      [#consensus](https://app.slack.com/client/TEHTVS1L6/C02D73MHM63
+      "#consensus") channel!
+    _template: banner
+  - style:
       minHeight: min-h-0
       fullWidth: true
       padding: pt-20 pb-20 pr-20 pl-20
     markup: |-
-      <div class="mx-auto max-w-full">
+      <div class="mx-auto max-w-desktop-full">
         <div class="relative height-0" style="padding-bottom: 56.25%;">
           <iframe src="https://www.youtube.com/embed/e9M4cqrgmqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"></iframe>
         </div>
@@ -63,6 +89,7 @@ blocks:
         title: Protocol Labs | ConsensusLab
         label: "Marko joined Protocol Labs mid-2021 as the ConsensusLab lead. Prior to this he was a Principal Research Staff Member in\_IBM Research Zurich, where he worked from 2015-2021 and earlier as a PostDoc (2008-2010). Marko obtained a Doctor of Science (PhD) degree in Distributed Systems from EPFL in the\_Distributed Programming Laboratory (LPD)\_in 2008. Prior to his PhD, Marko graduated from the\_EPFL Doctoral School in Computer and Communication Sciences\_in 2003 and obtained a dipl.ing. degree in Electrical Engineering (Telecommunications) from the\_School of Electrical Engineering, University of Belgrade, in 2001. Marko’s main research interest is in decentralized systems, that is in distributed systems that span multiple administrative and trust domains (e.g., permissionless and permissioned blockchain systems)."
         headline: ''
+        text: ''
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655394469/consensus-factory/IOHK_merged_x6wnnp.png
         name: Arnaud Bailly & Sebastian Nagel

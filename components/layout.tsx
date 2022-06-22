@@ -114,6 +114,10 @@ export const Layout = ({
             .markdown a {
               text-decoration: underline;
             }
+            .markdown ol {
+              padding-left: 1rem;
+              list-style-type: decimal;
+            }
           `,
           }}
         />
